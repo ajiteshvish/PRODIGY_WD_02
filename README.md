@@ -37,11 +37,11 @@ A fully functional and visually appealing stopwatch web application built using 
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ajitesh-vishwakarma/stopwatch-web-app.git
+   git clone https://github.com/ajitesh-vishwakarma/PRODIGY_WD_02.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd stopwatch-web-app
+   cd PRODIGY_WD_02
    ```
 3. Open the `index.html` file in your browser.
 
