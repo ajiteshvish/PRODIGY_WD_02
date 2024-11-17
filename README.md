@@ -17,8 +17,8 @@ A fully functional and visually appealing stopwatch web application built using 
 ---
 
 ## Demo 🎥
-
-![Stopwatch Demo]()  
+![Stopwatch Demo](![bg_image](https://github.com/user-attachments/assets/937a8896-11ee-466c-897f-bc943f6f7834)
+)  
 
 ---
 
@@ -92,7 +92,6 @@ Adjust the `max-height` of the `.lap-times` section in `style.css` to control ho
 ## Acknowledgments 🙌
 - Developed by **Ajitesh Vishwakarma**.
 - Inspired by the simplicity and utility of modern web applications.
-- Background image courtesy of [Unsplash](https://unsplash.com/) (if applicable).
 
 ---
 
