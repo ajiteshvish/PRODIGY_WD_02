@@ -17,8 +17,8 @@ A fully functional and visually appealing stopwatch web application built using 
 ---
 
 ## Demo 🎥
-![Stopwatch Demo](![bg_image](https://github.com/user-attachments/assets/937a8896-11ee-466c-897f-bc943f6f7834)
-)  
+  ![github_img_1](https://github.com/user-attachments/assets/102ee80e-0304-44c0-bc0e-dffdc593448c)
+![github_img_2](https://github.com/user-attachments/assets/e5c57e39-bbf4-4fc6-91c2-cd65553c5d55)
 
 ---
 
