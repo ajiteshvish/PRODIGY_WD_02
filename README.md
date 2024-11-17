@@ -97,7 +97,7 @@ Adjust the `max-height` of the `.lap-times` section in `style.css` to control ho
 
 ### Connect with Me 🌐
 If you liked this project or have suggestions for improvement, feel free to connect:
-- **GitHub**: [Ajitesh Vishwakarma](https://github.com/_ajiteshvish_)
+- **GitHub**: [Ajitesh Vishwakarma](https://github.com/ajiteshvish)
 - **LinkedIn**: [Ajitesh Vishwakarma](https://linkedin.com/in/ajiteshvish)
 - **Email**: ajiteshvish47@gmail.com 
 
